@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/controle_orcamento
+    url: jdbc:postgresql://localhost:5432/categories
     username: postgres
     password: postgres
     max-active: 5
